@@ -8,6 +8,7 @@ packages = [{include = "recon_service"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+fastapi = "^0.85.0"
 
 
 [build-system]
